@@ -8,8 +8,8 @@ import pandas as pd
 import Module1_Reporter as mone
 import Module2_Reporter as mtwo
 import Module3_Reporter as mthree
-#thelimeinthecoco_nut58#
-#RealHuman73
+
+
 def col_to_section():
     st.title("Import Table to Create Vertical Report")
 
